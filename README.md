@@ -1,7 +1,6 @@
 * How to use it:
 
 ```
-$ termux-setup-storage
 $ pkg install git
 $ git clone https://github.com/garsella7/youtube-dl.git
 $ cd youtube-dl
@@ -11,6 +10,7 @@ $ cd youtube-dl
 ```
 $ sh install.sh
 ```
+
 NOTE:
 * if it's finished installing then open Youtube
 * search for the video that you want to download
