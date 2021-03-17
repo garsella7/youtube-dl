@@ -5,7 +5,7 @@ echo "Install the package..."
 sleep 3
 clear
 echo
-termux-setupstorage
+termux-setup-storage
 pkg update && pkg upgrade
 pkg install git
 pkg install python
